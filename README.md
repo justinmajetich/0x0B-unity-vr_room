@@ -1,8 +1,8 @@
 # VR Puzzle Room
 
-VR Puzzle Room was solo-developed over three weeks for an assignment at Holberton School. The goal of the project was to learn the design and development of VR locomotion and interaction systems. Both the teleportation and interaction systems in VR Puzzle Room were written from scratch in C#.
+VR Puzzle Room is a brief puzzle game made with Unity/C# for Oculus platforms. The project was solo-developed over three weeks for an assignment at Holberton School. The goal of the project was to explore the design and development of VR locomotion and interaction systems. Both the teleportation and interaction systems in VR Puzzle Room were written from scratch in C#.
 
-I also designed and implemented the storage hold keyboard's UI and funtionality, as well as all game audio.
+I also designed and implemented the storage hold keyboard's UI and functionality, as well as all game audio.
 
 ## How To Play
 
